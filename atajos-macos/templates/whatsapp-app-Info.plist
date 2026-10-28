@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>Enviar a WhatsApp</string>
+	<key>CFBundleExecutable</key>
+	<string>WhatsAppFinderHelper</string>
+	<key>CFBundleIdentifier</key>
+	<string>ch.local.whatsapp-finder-helper</string>
+	<key>CFBundleName</key>
+	<string>Enviar a WhatsApp</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>LSUIElement</key>
+	<true/>
+	<key>NSAppleEventsUsageDescription</key>
+	<string>Abrir la búsqueda de contactos de WhatsApp para preparar archivos seleccionados en Finder.</string>
+</dict>
+</plist>
